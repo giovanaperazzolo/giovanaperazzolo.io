@@ -49,7 +49,6 @@ subtitle: Estudante Engenharia da Computação
 ## Currículo Lattes
 
 ![https://lattes.cnpq.br/](assets/img/lattesLogo.png)
-##### Conheça minha pesquisa:
 ###### http://lattes.cnpq.br/2725724288912843
 
 
