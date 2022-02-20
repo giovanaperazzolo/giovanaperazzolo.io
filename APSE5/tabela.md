@@ -13,6 +13,7 @@ output:
 
 | **Data**    | **Atividade**      |
 | ------- |:--------------------------------------------------------------------------------------------:| 
-| **24/02**   | ✔ **[Elaboração de Portfólio](https://giovannafantacini.github.io/giovannafantacini.io/)**|
+| **17/02**   | **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/)**|
+| **17/02**   | **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/aboutme/)**|
 
 ---
