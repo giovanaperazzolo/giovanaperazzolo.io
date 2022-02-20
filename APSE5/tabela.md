@@ -14,6 +14,6 @@ output:
 | **Data**    | **Atividade**      |
 | ------- |:--------------------------------------------------------------------------------------------:| 
 | **17/02**   | **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/)**|
-| **17/02**   | **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/aboutme/)**|
+| **17/02**   | **[Memorial do Aluno](https://giperazzolo.github.io/giovanaperazzolo.io/aboutme/)**|
 
 ---
