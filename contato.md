@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giovanna Santos Fantacini
+title: Giovanna Perazzolo Menato
 subtitle: Estudante Engenharia da Computação
 ---
 
