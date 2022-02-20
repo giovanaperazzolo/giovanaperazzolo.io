@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giovanna Perazzolo Menato
+title: Giovana Perazzolo Menato
 subtittle: Estudante de Engenharia de Computação
 ---
 
