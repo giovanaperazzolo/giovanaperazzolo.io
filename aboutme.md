@@ -25,16 +25,24 @@ subtitle: Estudante Engenharia da Computação
 
 ## Formação Escolar
 
-![Giusto](assets/img/claretiano.png)
-##### Claretiano - Colégio São José
+![Giusto](assets/img/giusto.png)
+##### Colégio Giusto Zonzini
 ###### Período  2007 – 2012
+
+![Objetivo](assets/img/objetivo.png)
+##### Colégio Espaço Potencial - Objetivo Cotia
+###### Período  2013 – 2016
+
+![Zacarias](assets/img/zacarias.jpg)
+##### E. E. Zacarias Antônio da Silva
+###### Período  2017 – 2019
 
 ---
 
 ## Idiomas 
-![FISK](assets/img/Fisk.png)
-##### Curso de Inglês - FISK
-###### Período  2013 - 2019
+![Cultura](assets/img/cultura.png)
+##### Curso de Inglês - Cultura Inglesa
+###### Período  2011 - 2013
 
 ---
 
