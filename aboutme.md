@@ -9,7 +9,7 @@ subtitle: Estudante Engenharia da Computação
 ## Minha História
 <div style="text-align: justify"> 
   Olá, meu nome é Giovana Perazzolo Menato, nasci na capital de São Paulo, mas sempre morei em Cotia, uma cidade próxima localizada na Zona Oeste. Tenho 19 anos.
-  Durante minha infância e adolescência, sempre tive interesse na área de tecnologia e computação, mas nunca tive contato com os mesmos. Meu primeiro contato foi em 2019, antes de prestar vestibular, em uma feira de profissões, onde conversei com algumas pessoas que estudavam em cursos relacionados a essa área. Depois de conversar com eles, decidi que queria seguir essa área, mas ainda estava com dúvidas em relação a qual curso fazer. No final, depois de pesquisar mais a fundo, acabei decidindo fazer engenharia de computação.
+  Durante minha infância e adolescência, sempre tive interesse na área de tecnologia e computação, mas nunca tive contato com os mesmos. Meu primeiro contato foi em 2019, antes de prestar vestibular, em uma feira de profissões, onde conversei com algumas pessoas que estudavam em cursos relacionados a essa área. Depois de conversar com eles, decidi que queria seguir essa área, mas ainda estava com dúvidas em relação a qual curso fazer. No final, após pesquisar mais a fundo, decidi fazer engenharia de computação. Atualmente curso o quinto semestre do curso.
 </div>
 
 ---
