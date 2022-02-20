@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Giovanna Fantacini
+title: Giovana Perazzolo
 
 # Your name to show in the footer
-author: Giovanna Fantacini
+author: Giovana Perazzolo
 
 # --- List of links in the navigation bar --- #
 
@@ -37,15 +37,15 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "giovanna.fantacini@aluno.ifsp.edu.br"
-  github: giovannaFantacini
+  email: "g.perazzolo@aluno.ifsp.edu.br"
+  github: giperazzolo
 #  medium: yourname
 #  reddit: yourname
-  linkedin: giovanna-fantacini-7154b51b9
+#  linkedin: giovanna-fantacini-7154b51b9
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: gi_fantacini
+  instagram: giperazzolo
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -86,7 +86,7 @@ feed_show_tags: true
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-navbar-col: "#CCCCCC"
+navbar-col: "#98FB98"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
