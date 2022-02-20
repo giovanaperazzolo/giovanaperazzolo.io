@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Giovanna Santos Fantacini
+title: Giovana Perazzolo Menato
 subtitle: Estudante Engenharia da Computação
 ---
-
-<div style="text-align: justify"> Cursando o 5º semestre em Engenharia da Computação
-</div>
 
 ---
 
 ## Minha História
 <div style="text-align: justify"> 
-  Nasci em Batatais-SP, tenho 19 anos, filha de comerciantes, meu pai foi programador e atualmente possui uma loja de música e informatica, o que sempre me manteve em contato com várias tecnologias, entretanto, o meu interesse pela área só começou a surgir no ensino médio, como tinha afinidade com as matérias de matemática e física comecei minha busca por cursos que relacionassem as duas áreas e tivessem algo a mais do meu interesse, durante a busca descobri o curso de Engenharia da Computação e fiz algumas aulas de programação para confirmar meu interesse na área. Atualmente, estou cursando o 5º semestre de Engenharia da Computação e estou realizando minha segunda iniciação científica, com o título “Aplicação móvel para consumo de serviços em uma infraestrutura de IoT”.
+  Olá, meu nome é Giovana Perazzolo Menato, nasci na capital de São Paulo, mas sempre morei em Cotia, uma cidade próxima localizada na Zona Oeste. Tenho 19 anos.
+  Durante minha infância e adolescência, sempre tive interesse na área de tecnologia e computação, mas nunca tive contato com os mesmos. Meu primeiro contato foi em 2019, antes de prestar vestibular, em uma feira de profissões, onde conversei com algumas pessoas que estudavam em cursos relacionados a essa área. Depois de conversar com eles, decidi que queria seguir essa área, mas ainda estava com dúvidas em relação a qual curso fazer. No final, depois de pesquisar mais a fundo, acabei decidindo fazer engenharia de computação.
 </div>
 
 ---
@@ -27,9 +25,9 @@ subtitle: Estudante Engenharia da Computação
 
 ## Formação Escolar
 
-![CLARETIANO](assets/img/claretiano.png)
+![Giusto](assets/img/claretiano.png)
 ##### Claretiano - Colégio São José
-###### Período  2005 – 2019
+###### Período  2007 – 2012
 
 ---
 
@@ -38,9 +36,6 @@ subtitle: Estudante Engenharia da Computação
 ##### Curso de Inglês - FISK
 ###### Período  2013 - 2019
 
-![FLUENCYACADEMY](assets/img/fluency.png)
-##### Curso de Espanhol - Fluency Academy
-###### Período  2020 - Presente
 ---
 
 ## Currículo Lattes
