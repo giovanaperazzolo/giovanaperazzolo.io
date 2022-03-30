@@ -16,7 +16,7 @@ output:
 | **17/02**   | **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/)**|
 | **17/02**   | **[Memorial do Aluno](https://giperazzolo.github.io/giovanaperazzolo.io/aboutme/)**|
 | **03/03**   | **[Requisitos](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit)**|
-
-
+| **24/03**   |  ** [Escopo] (https://docs.google.com/spreadsheets/d/1KdBNrJeSerPNAUN9_EOkNh_04BfhLp7mWcpIrWtWh4U/edit#gid) **|
+ 
 
 ---
