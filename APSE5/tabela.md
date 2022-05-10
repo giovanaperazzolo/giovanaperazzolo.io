@@ -15,6 +15,7 @@ output:
 | ------- |:--------------------------------------------------------------------------------------------:| 
 | **17/02**   |  **[Elaboração de Portfólio](https://giperazzolo.github.io/giovanaperazzolo.io/)**|
 | **17/02**   |  **[Memorial do aluno](https://giperazzolo.github.io/giovanaperazzolo.io/aboutme/)**|
+| **24/02**   |  **[Pesquisa Requisitos](https://docs.google.com/document/d/1iDHynM_NNO_ZFc0EfJzDrnoEygw1OuHBD050D_M2q2U/edit?usp=sharing)**|
 | **03/03**   |  **[Requisistos Receita Médica](https://docs.google.com/document/d/17w2iCt25jdSfD3fOOLtCA8yoCzZwHB1c9ZCQX_UrwFY/edit?usp=sharing)**|
 | **10/03**   |  **[Pesquisa Diagrama de Caso de Uso](https://docs.google.com/document/d/1kJuPM3BFJ5pM2VmzW59eCNXOli5scN4wBtv28xpJKbk/edit?usp=sharing)**|
 | **24/03**   |  **[Diagrama de Caso de Uso](https://docs.google.com/document/d/10yKP2XiJFviRA-jOnXl1KFuf1LWa_1B0MvyDw1tzako/edit?usp=sharing)**|
