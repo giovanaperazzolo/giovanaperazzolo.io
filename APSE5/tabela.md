@@ -31,5 +31,6 @@ output:
 | **21/04**   |  **[Pesquisa Diagrama de Atividades](https://docs.google.com/document/d/1vlg4c-XJXGDgW4-7D5AbgbAJXSi5FeI8O4iK5IlABI8/edit?usp=sharing)**|
 | **05/05**   |  **[Diagrama de Atividades](https://docs.google.com/document/d/1tIoDNZKU67gI91BvVl-xFEkmgZMa1f-sZYW0vVEHxmY/edit?usp=sharing)**|
 | **28/04**   |  **[Pesquisa Diagrama de Sequências](https://docs.google.com/document/d/1y4tVwUCTd7_Z7t8MnTFYKTCSbhUdOyy33Z38qgt7goM/edit?usp=sharing)**|
+| **18/05**   |  **[Diagrama de Sequências](https://docs.google.com/document/d/1lL3F7_-j9v_XAXoSyikbV_k4WlxPARxOOGOIgoxOTSk/edit?usp=sharing)**|
 | **20/05**   |  **[Projeto Final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
 ---
