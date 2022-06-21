@@ -34,4 +34,5 @@ output:
 | **18/05**   |  **[Diagrama de Sequências](https://docs.google.com/document/d/1lL3F7_-j9v_XAXoSyikbV_k4WlxPARxOOGOIgoxOTSk/edit?usp=sharing)**|
 | **20/05**   |  **[Projeto de Dados](https://docs.google.com/document/d/1X4F-6k5bEo054kr_ldZHR3M4FXMQJktwWasQKKNfuBQ/edit?usp=sharing)**|
 | **20/05**   |  **[Projeto Final](https://docs.google.com/document/d/1hX8-y8aBUQ58xaxR89YZ8Wgj9zDPYtFNl37nypS2AxI/edit?usp=sharing)**|
+| **02/06**   |  **[Apresentação](https://www.canva.com/design/DAFCAgD03Hc/bUk6pJTFYrJUS-H2mbfeww/view?utm_content=DAFCAgD03Hc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)**|
 ---
